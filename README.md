@@ -1,12 +1,14 @@
 # Hi there, I'm Lucas Barros <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<details align="middle">
-<summary>Open profile</summary>
+<div align="center">
+<details style="display: inline-block; text-align: left;">
+<summary>🔍<b>Open profile</b></summary>
 <br>
-    
+<div align="left">
 blá, blá, blá sobre mim.
+</div>
 
 <details>
-<summary align="center">My GitHub Stats</summary>
+<summary><!--<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">-->📊<b> Github Stats </b></summary>
 
 <div>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
@@ -23,7 +25,8 @@ blá, blá, blá sobre mim.
 </details>
         
 <details>
-<summary align="center">Technologies I use</summary>
+<summary align="center"><!--<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">-->📝<b> Skills</b></summary>
+<br>
 
 <img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
 <img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
@@ -40,7 +43,7 @@ blá, blá, blá sobre mim.
 </details>
 
 <details>
-<summary align="center"><b>You've scrolled very far. Take some rest and read a joke:</b></summary>
+<summary align="center">🙃<b>You've scrolled very far. Take some rest and read a joke:</b></summary>
 <br />
 <p align="center">  <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" /></p>
 </details>
@@ -58,4 +61,5 @@ blá, blá, blá sobre mim.
   <!---<a href="https://www.linkedin.com/in/felipe-tommaselli-385a9b1a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> >-->
   <a href="https://www.instagram.com/lucas._.barros/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
   <a href = "https://open.spotify.com/user/ninjapro93?si=764506d84c9244db"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+</div>
 <div>
