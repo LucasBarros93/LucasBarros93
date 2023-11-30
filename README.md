@@ -4,7 +4,10 @@
 <summary>🔍<b>Open profile</b></summary>
 <br>
 <div align="left">
-blá, blá, blá sobre mim.
+<p>- I'm from São Paulo - SP, Brazil </p>
+<p>- I'm 20 years old </p>
+<p>- I study Computer Engineering at USP </p>
+<p>- Be Welcome! </p>
 </div>
 
 <details>
