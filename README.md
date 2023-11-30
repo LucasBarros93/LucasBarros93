@@ -17,7 +17,7 @@ blá, blá, blá sobre mim.
 
 <br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=LucasBarros93&show_icons=true&theme=dark&locale=en&title_color=c07adb&icon_color=590278&text_color=D3D3D3&bg_color=0,000000,420347" alt="LucasBarros93" /></p>
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 </div>
 </details>
